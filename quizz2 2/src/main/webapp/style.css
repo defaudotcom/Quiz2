@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+*{
+    font-family: 'poppins', sans-serif;
+}
+
+#card_count{
+    text-align: center;
+    padding: 0 0.9rem 0.1rem 0.9rem;
+    border-radius: 3rem;
+}
+
+.adopt-cart{
+    padding: 3% 0;
+}
+
+.cart-items + .cart-items {
+    padding: 2% 0;
+}
+
+#header nav {
+    background-color: #617143;
+}
+
+#header nav a img {
+    width: 50px;
+    height: 50px;
+}
+
+
+#page {
+    background-color: #c8b6a6;
+    margin:0%;
+}
+
+.table tbody td{
+	vertical-align: middle;
+}
+		
+.btn-incre, .btn-decre{
+	box-shadow: none;
+	font-size: 25px;
+}
